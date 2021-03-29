@@ -8,8 +8,8 @@ def home(request):
 def about(request):
     return render(request, 'pgenerator/about.html')
 
-def base(request):
-    return render(request, 'pgenerator/base.html')
+def contacts(request):
+    return render(request, 'pgenerator/contacts.html')
 
 def password(request):
 
