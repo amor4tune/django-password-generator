@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="210651f2-8eab-4af3-be78-06c193704e9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/password_generator/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/password_generator/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pgenerator/templates/pgenerator/base.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pgenerator/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/pgenerator/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgenerator/templates/pgenerator/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/pgenerator/templates/pgenerator/contacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pgenerator/templates/pgenerator/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/pgenerator/templates/pgenerator/home.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,13 +57,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="1814" />
+          <entry key="html" value="1867" />
           <entry key="py" value="689" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="1814" />
+          <entry key="HTML" value="1867" />
           <entry key="Python" value="689" />
         </counts>
       </usages-collector>
@@ -73,7 +71,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pgenerator/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
@@ -106,17 +104,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pgenerator/templates/pgenerator/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+            <state relative-caret-position="459">
+              <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pgenerator/templates/pgenerator/contacts.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="729">
-              <caret line="48" column="6" lean-forward="true" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+            <state relative-caret-position="246">
+              <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -164,14 +162,14 @@
         <option value="$PROJECT_DIR$/pgenerator/templates/pgenerator/password.html" />
         <option value="$PROJECT_DIR$/pgenerator/templates/pgenerator/about.html" />
         <option value="$PROJECT_DIR$/pgenerator/templates/pgenerator/base.html" />
-        <option value="$PROJECT_DIR$/pgenerator/templates/pgenerator/home.html" />
-        <option value="$PROJECT_DIR$/pgenerator/templates/pgenerator/contacts.html" />
         <option value="$PROJECT_DIR$/password_generator/urls.py" />
         <option value="$PROJECT_DIR$/pgenerator/views.py" />
+        <option value="$PROJECT_DIR$/pgenerator/templates/pgenerator/home.html" />
+        <option value="$PROJECT_DIR$/pgenerator/templates/pgenerator/contacts.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -323,13 +321,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pgenerator/templates/pgenerator/contacts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="48" column="6" lean-forward="true" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/password_generator/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -337,13 +328,6 @@
           <folding>
             <element signature="e#642#674#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pgenerator/templates/pgenerator/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -361,6 +345,20 @@
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pgenerator/templates/pgenerator/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pgenerator/templates/pgenerator/contacts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
         </state>
       </provider>
     </entry>
